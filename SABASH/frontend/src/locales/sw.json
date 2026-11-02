@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "dashboard": "Dashibodi",
+    "intake": "Pokea Mpya",
+    "users": "Timu & RBAC",
+    "clients": "Wateja",
+    "logout": "Toka",
+    "visits": "Ziara za Masoko"
+  },
+  "topbar": {
+    "adminName": "Mtumiaji Mkuu",
+    "adminRole": "Msimamizi",
+    "notifications": "Taarifa",
+    "noNotifs": "Hakuna taarifa bado."
+  },
+  "dashboard": {
+    "title": "Dashibodi ya Uendeshaji",
+    "revenue": "Mapato Yote",
+    "shipments": "Mizigo Inayosafiri",
+    "pending": "Inasubiri Kupokelewa",
+    "growth": "Ukuaji wa Wiki",
+    "chartTitle": "Muhtasari wa Mapato",
+    "manifestTitle": "Orodha ya Mizigo",
+    "noShipments": "Hakuna mizigo iliyopatikana."
+  },
+  "landing": {
+    "heroTitle": "SABASH CARGO",
+    "heroHighlight": "KAMPUNI YA LOGISTICS",
+    "heroSubtitle": "The enterprise-grade Warehouse Management System connecting China, UAE, and Tanzania.",
+    "cta": "Anza Kusafirisha",
+    "feat1Title": "Mahesabu ya Papo Hapo",
+    "feat1Desc": "Rahisisha hesabu za CBM na uzito wa mizigo.",
+    "feat2Title": "Lugha Nyingi",
+    "feat2Desc": "Msaada kamili wa lugha 4.",
+    "feat3Title": "Ruhusa kwa Majukumu",
+    "feat3Desc": "Linda data yako kwa viwango vya ruhusa."
+  },
+  "auth": {
+    "welcome": "Karibu Tena",
+    "subtitle": "Ingia kwenye akaunti yako",
+    "email": "Barua Pepe",
+    "password": "Nenosiri",
+    "loginBtn": "Ingia",
+    "noAccount": "Hauna akaunti?",
+    "registerLink": "Tengeneza moja",
+    "createAccount": "Tengeneza Akaunti",
+    "registerSubtitle": "Jiunge na mtandao wa Sabash Cargo",
+    "name": "Jina Kamili",
+    "registerBtn": "Jisajili",
+    "hasAccount": "Tayari una akaunti?",
+    "loginLink": "Ingia",
+    "forgot": "Umesahau Nenosiri?",
+    "invalid": "Taarifa si sahihi",
+    "welcomeToast": "Karibu tena, {name}!"
+  },
+  "form": {
+    "customerName": "Jina la Mteja",
+    "phone": "Namba ya Simu",
+    "trackingCode": "Namba ya Ufuatiliaji",
+    "freightType": "Aina ya Mizigo",
+    "sea": "Mizigo ya Bahari",
+    "air": "Mizigo ya Ndege",
+    "origin": "Ghala la Kutokea",
+    "dimensions": "Vipimo (CM)",
+    "weight": "Uzito Halisi (KG)",
+    "calculate": "Hesabu na Hifadhi",
+    "totalCost": "Jumla ya Gharama (USD)",
+    "cbm": "CBM",
+    "billableWeight": "Uzito wa Kulipia (KG)",
+    "success": "Mzigo umesajiliwa kwa mafanikio!",
+    "error": "Hitilafu wakati wa kusajili mzigo"
+  },
+  "table": {
+    "tracking": "Ufuatiliaji",
+    "customer": "Mteja",
+    "status": "Hali",
+    "cost": "Gharama",
+    "action": "Kitendo",
+    "notify": "Arifu WhatsApp"
+  },
+  "status": {
+    "Loaded": "Imepakiwa",
+    "In Transit": "Safarini",
+    "Arrived Dar": "Imefika Dar",
+    "Delivered": "Imekabidhiwa"
+  },
+  "clients": {
+    "title": "Orodha ya Wateja",
+    "register": "Sajili Mteja",
+    "name": "Jina Kamili",
+    "phone": "Namba ya Simu",
+    "company": "Kampuni (Hiari)",
+    "email": "Barua Pepe (Hiari)",
+    "save": "Hifadhi Mteja",
+    "all": "Wateja Wote",
+    "search": "Tafuta wateja...",
+    "contact": "Mawasiliano",
+    "noClients": "Hakuna wateja waliopatikana.",
+    "success": "Mteja amesajiliwa kwa mafanikio!",
+    "error": "Namba ya simu inaweza kuwa tayari ipo"
+  },
+  "users": {
+    "title": "Timu & RBAC",
+    "adminAccess": "Ufikiaji wa Msimamizi",
+    "register": "Sajili Mfanyakazi",
+    "name": "Jina Kamili",
+    "email": "Barua Pepe",
+    "password": "Nenosiri",
+    "role": "Jukumu",
+    "staff": "Mfanyakazi (Kupokea Tu)",
+    "manager": "Meneja (Kupokea + Kuona)",
+    "admin": "Msimamizi (Ufikiaji Kamili)",
+    "team": "Timu ya Ndani",
+    "noUsers": "Hakuna watumiaji waliopatikana.",
+    "success": "Mfanyakazi amesajiliwa kwa mafanikio!",
+    "error": "Barua pepe inaweza kuwa tayari ipo",
+    "warehouse": "Mfanyakazi wa Ghala"
+  },
+  "footer": {
+    "contact": "Wasiliana Nasi",
+    "offices": "Ofisi za Kimataifa",
+    "china": "China",
+    "dubai": "UAE",
+    "tanzania": "Tanzania",
+    "desc": "Mfumo wa Ndani wa Upokeaji na Usafirishaji wa Ghala. Umeundwa kwa usimamizi wa haraka na sahihi wa vifaa kati ya China, Dubai, na Tanzania.",
+    "rights": "Haki zote zimehifadhiwa.",
+    "uae": "UAE",
+    "uaeCity": "Deira, Dubai"
+  },
+  "whatsapp": {
+    "message": "Habari {name}, mzigo wako {tracking} umefika katika ghala letu la Dar es Salaam (Kariakoo). Gharama ni: ${cost}. Tafadhali njoo kuuchukua wakati wa kazi."
+  },
+  "visits": {
+    "nav": "Ziara za Masoko",
+    "title": "Masoko na Ziara",
+    "register": "Rekodi Ziara Mpya",
+    "customer": "Jina la Mteja",
+    "phone": "Namba ya Simu",
+    "workplace": "Mahali pa Kazi (Duka/Ofisi)",
+    "comments": "Maelezo ya Mteja",
+    "save": "Hifadhi Ziara",
+    "agent": "Mfanyabiashara",
+    "date": "Tarehe",
+    "noVisits": "Hakuna ziara zilizorekodiwa.",
+    "success": "Ziara imerekodiwa kikamilifu!"
+  }
+}

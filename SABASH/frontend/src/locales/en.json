@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "intake": "New Intake",
+    "users": "Team & RBAC",
+    "clients": "Clients",
+    "logout": "Logout",
+    "visits": "Field Visits"
+  },
+  "topbar": {
+    "adminName": "Admin User",
+    "adminRole": "Administrator",
+    "notifications": "Notifications",
+    "noNotifs": "No notifications yet."
+  },
+  "dashboard": {
+    "title": "Operations Dashboard",
+    "revenue": "Total Revenue",
+    "shipments": "Active Shipments",
+    "pending": "Pending Intake",
+    "growth": "Weekly Growth",
+    "chartTitle": "Revenue Overview",
+    "manifestTitle": "Live Manifest",
+    "noShipments": "No shipments found."
+  },
+  "landing": {
+    "heroTitle": "SABASH CARGO",
+    "heroHighlight": "LOGISTIC COMPANY",
+    "heroSubtitle": "The enterprise-grade Warehouse Management System connecting China, UAE, and Tanzania.",
+    "cta": "Start Shipping",
+    "feat1Title": "Instant Calculations",
+    "feat1Desc": "Automate CBM and volumetric weight pricing.",
+    "feat2Title": "Multi-Language",
+    "feat2Desc": "Native support for 4 languages.",
+    "feat3Title": "Role-Based Access",
+    "feat3Desc": "Secure your data with Admin and Staff roles."
+  },
+  "auth": {
+    "welcome": "Welcome Back",
+    "subtitle": "Login to your enterprise account",
+    "email": "Email Address",
+    "password": "Password",
+    "loginBtn": "Sign In",
+    "noAccount": "Don't have an account?",
+    "registerLink": "Create one",
+    "createAccount": "Create Account",
+    "registerSubtitle": "Join the Sabash Cargo network",
+    "name": "Full Name",
+    "registerBtn": "Register",
+    "hasAccount": "Already have an account?",
+    "loginLink": "Sign In",
+    "forgot": "Forgot Password?",
+    "invalid": "Invalid credentials",
+    "welcomeToast": "Welcome back, {name}!"
+  },
+  "form": {
+    "customerName": "Customer Name",
+    "phone": "Phone Number",
+    "trackingCode": "Tracking Code",
+    "freightType": "Freight Type",
+    "sea": "Sea Freight",
+    "air": "Air Freight",
+    "origin": "Origin Warehouse",
+    "dimensions": "Dimensions (CM)",
+    "weight": "Actual Weight (KG)",
+    "calculate": "Calculate & Save",
+    "totalCost": "Total Cost (USD)",
+    "cbm": "CBM",
+    "billableWeight": "Billable Weight (KG)",
+    "success": "Shipment Registered Successfully!",
+    "error": "Error registering shipment"
+  },
+  "table": {
+    "tracking": "Tracking",
+    "customer": "Customer",
+    "status": "Status",
+    "cost": "Cost",
+    "action": "Action",
+    "notify": "Notify WhatsApp"
+  },
+  "status": {
+    "Loaded": "Loaded",
+    "In Transit": "In Transit",
+    "Arrived Dar": "Arrived Dar",
+    "Delivered": "Delivered"
+  },
+  "clients": {
+    "title": "Clients Directory",
+    "register": "Register Client",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "company": "Company (Optional)",
+    "email": "Email (Optional)",
+    "save": "Save Client",
+    "all": "All Clients",
+    "search": "Search clients...",
+    "contact": "Contact",
+    "noClients": "No clients found.",
+    "success": "Client registered successfully!",
+    "error": "Phone number might already exist"
+  },
+  "users": {
+    "title": "Team & RBAC",
+    "adminAccess": "Admin Access",
+    "register": "Register Staff",
+    "name": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "role": "Role",
+    "staff": "Staff (Intake Only)",
+    "manager": "Manager (Intake + View)",
+    "admin": "Admin (Full Access)",
+    "team": "Internal Team",
+    "noUsers": "No users found.",
+    "success": "Staff member registered successfully!",
+    "error": "Email might already exist",
+    "warehouse": "Warehouse Worker"
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "offices": "Global Offices",
+    "china": "China",
+    "dubai": "UAE",
+    "tanzania": "Tanzania",
+    "desc": "Internal Warehouse Intake & Dispatch System. Designed for fast, accurate logistics management between China, Dubai, and Tanzania.",
+    "rights": "All rights reserved.",
+    "uae": "UAE",
+    "uaeCity": "Deira, Dubai"
+  },
+  "whatsapp": {
+    "message": "Hello {name}, your shipment {tracking} has arrived at our Dar es Salaam warehouse (Kariakoo). Total cost: ${cost}. Please pick it up during business hours."
+  },
+  "visits": {
+    "nav": "Field Visits",
+    "title": "Marketing & Field Visits",
+    "register": "Log New Visit",
+    "customer": "Customer Name",
+    "phone": "Phone Number",
+    "workplace": "Workplace (Shop/Office)",
+    "comments": "Comments (Maelezo ya Mteja)",
+    "save": "Save Visit",
+    "agent": "Marketer",
+    "date": "Date",
+    "noVisits": "No visits logged yet.",
+    "success": "Visit recorded successfully!"
+  }
+}

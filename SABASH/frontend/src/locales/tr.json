@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "dashboard": "Kontrol Paneli",
+    "intake": "Yeni Kayıt",
+    "users": "Ekip & RBAC",
+    "clients": "Müşteriler",
+    "logout": "Çıkış Yap",
+    "visits": "Saha Ziyaretleri"
+  },
+  "topbar": {
+    "adminName": "Yönetici",
+    "adminRole": "Süper Yönetici",
+    "notifications": "Bildirimler",
+    "noNotifs": "Henüz bildirim yok."
+  },
+  "dashboard": {
+    "title": "Operasyon Paneli",
+    "revenue": "Toplam Gelir",
+    "shipments": "Aktif Gönderiler",
+    "pending": "Bekleyen Giriş",
+    "growth": "Haftalık Büyüme",
+    "chartTitle": "Gelir Özeti",
+    "manifestTitle": "Canlı Manifesto",
+    "noShipments": "Gönderi bulunamadı."
+  },
+  "landing": {
+    "heroTitle": "SABASH CARGO",
+    "heroHighlight": "LOJİSTİK ŞİRKETİ",
+    "heroSubtitle": "The enterprise-grade Warehouse Management System connecting China, UAE, and Tanzania.",
+    "cta": "Gönderime Başla",
+    "feat1Title": "Anında Hesaplamalar",
+    "feat1Desc": "Deniz ve Hava kargo fiyatlandırmasını otomatikleştirin.",
+    "feat2Title": "Çoklu Dil",
+    "feat2Desc": "4 dil için yerel destek.",
+    "feat3Title": "Rol Tabanlı Erişim",
+    "feat3Desc": "Verilerinizi yönetici ve personel rolleriyle güvence altına alın."
+  },
+  "auth": {
+    "welcome": "Tekrar Hoş Geldiniz",
+    "subtitle": "Kurumsal hesabınıza giriş yapın",
+    "email": "E-posta Adresi",
+    "password": "Şifre",
+    "loginBtn": "Giriş Yap",
+    "noAccount": "Hesabınız yok mu?",
+    "registerLink": "Bir tane oluşturun",
+    "createAccount": "Hesap Oluştur",
+    "registerSubtitle": "Sabash Cargo ağına katılın",
+    "name": "Ad Soyad",
+    "registerBtn": "Kayıt Ol",
+    "hasAccount": "Zaten hesabınız var mı?",
+    "loginLink": "Giriş Yap",
+    "forgot": "Şifrenizi mi unuttunuz?",
+    "invalid": "Geçersiz kimlik bilgileri",
+    "welcomeToast": "Tekrar hoş geldiniz, {name}!"
+  },
+  "form": {
+    "customerName": "Müşteri Adı",
+    "phone": "Telefon Numarası",
+    "trackingCode": "Takip Kodu",
+    "freightType": "Navlun Türü",
+    "sea": "Deniz Yolu",
+    "air": "Hava Yolu",
+    "origin": "Çıkış Deposu",
+    "dimensions": "Boyutlar (CM)",
+    "weight": "Gerçek Ağırlık (KG)",
+    "calculate": "Hesapla ve Kaydet",
+    "totalCost": "Toplam Maliyet (USD)",
+    "cbm": "CBM",
+    "billableWeight": "Faturalandırılabilir Ağırlık (KG)",
+    "success": "Gönderi Başarıyla Kaydedildi!",
+    "error": "Gönderi kaydedilirken hata oluştu"
+  },
+  "table": {
+    "tracking": "Takip",
+    "customer": "Müşteri",
+    "status": "Durum",
+    "cost": "Maliyet",
+    "action": "İşlem",
+    "notify": "WhatsApp Bildir"
+  },
+  "status": {
+    "Loaded": "Yüklendi",
+    "In Transit": "Transit Halinde",
+    "Arrived Dar": "Dar'a Ulaştı",
+    "Delivered": "Teslim Edildi"
+  },
+  "clients": {
+    "title": "Müşteri Rehberi",
+    "register": "Müşteri Kaydet",
+    "name": "Ad Soyad",
+    "phone": "Telefon Numarası",
+    "company": "Şirket (İsteğe Bağlı)",
+    "email": "E-posta (İsteğe Bağlı)",
+    "save": "Müşteriyi Kaydet",
+    "all": "Tüm Müşteriler",
+    "search": "Müşteri ara...",
+    "contact": "İletişim",
+    "noClients": "Müşteri bulunamadı.",
+    "success": "Müşteri başarıyla kaydedildi!",
+    "error": "Telefon numarası zaten mevcut olabilir"
+  },
+  "users": {
+    "title": "Ekip & RBAC",
+    "adminAccess": "Yönetici Erişimi",
+    "register": "Personel Kaydet",
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "password": "Şifre",
+    "role": "Rol",
+    "staff": "Personel (Sadece Giriş)",
+    "manager": "Müdür (Giriş + Görüntüleme)",
+    "admin": "Yönetici (Tam Erişim)",
+    "team": "İç Ekip",
+    "noUsers": "Kullanıcı bulunamadı.",
+    "success": "Personel başarıyla kaydedildi!",
+    "error": "E-posta zaten mevcut olabilir",
+    "warehouse": "Depo Görevlisi"
+  },
+  "footer": {
+    "contact": "Bize Ulaşın",
+    "offices": "Küresel Ofisler",
+    "china": "Çin",
+    "dubai": "BAE",
+    "tanzania": "Tanzanya",
+    "desc": "Dahili Depo Giriş ve Sevkiyat Sistemi. Çin, Dubai ve Tanzanya arasında hızlı ve doğru lojistik yönetimi için tasarlanmıştır.",
+    "rights": "Tüm hakları saklıdır.",
+    "uae": "BAE",
+    "uaeCity": "Deira, Dubai"
+  },
+  "whatsapp": {
+    "message": "Merhaba {name}, {tracking} takip numaralı gönderiniz Dar es Salaam depomuza ulaştı. Toplam maliyet: ${cost}. Lütfen iş saatlerinde teslim alın."
+  },
+  "visits": {
+    "nav": "Saha Ziyaretleri",
+    "title": "Pazarlama ve Saha Ziyaretleri",
+    "register": "Yeni Ziyaret Kaydet",
+    "customer": "Müşteri Adı",
+    "phone": "Telefon Numarası",
+    "workplace": "İş Yeri (Dükkan/Ofis)",
+    "comments": "Müşteri Yorumları",
+    "save": "Ziyareti Kaydet",
+    "agent": "Pazarlamacı",
+    "date": "Tarih",
+    "noVisits": "Henüz ziyaret kaydedilmedi.",
+    "success": "Ziyaret başarıyla kaydedildi!"
+  }
+}

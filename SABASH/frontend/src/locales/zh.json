@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "dashboard": "仪表板",
+    "intake": "新入库",
+    "users": "团队权限",
+    "clients": "客户目录",
+    "logout": "登出",
+    "visits": "实地拜访"
+  },
+  "topbar": {
+    "adminName": "管理员",
+    "adminRole": "超级管理员",
+    "notifications": "通知",
+    "noNotifs": "暂无通知。"
+  },
+  "dashboard": {
+    "title": "运营仪表板",
+    "revenue": "总收入",
+    "shipments": "活跃货物",
+    "pending": "待入库",
+    "growth": "每周增长",
+    "chartTitle": "收入概览",
+    "manifestTitle": "实时货运清单",
+    "noShipments": "未找到货物记录。"
+  },
+  "landing": {
+    "heroTitle": "SABASH CARGO",
+    "heroHighlight": "物流公司",
+    "heroSubtitle": "The enterprise-grade Warehouse Management System connecting China, UAE, and Tanzania.",
+    "cta": "开始发货",
+    "feat1Title": "即时计算",
+    "feat1Desc": "自动计算海运和空运的费用。",
+    "feat2Title": "多语言支持",
+    "feat2Desc": "原生支持4种语言。",
+    "feat3Title": "基于角色的访问",
+    "feat3Desc": "通过管理员和员工权限保护数据。"
+  },
+  "auth": {
+    "welcome": "欢迎回来",
+    "subtitle": "登录您的企业账户",
+    "email": "电子邮件",
+    "password": "密码",
+    "loginBtn": "登录",
+    "noAccount": "没有账户？",
+    "registerLink": "创建一个",
+    "createAccount": "创建账户",
+    "registerSubtitle": "加入 Sabash Cargo 网络",
+    "name": "全名",
+    "registerBtn": "注册",
+    "hasAccount": "已有账户？",
+    "loginLink": "登录",
+    "forgot": "忘记密码？",
+    "invalid": "凭证无效",
+    "welcomeToast": "欢迎回来，{name}！"
+  },
+  "form": {
+    "customerName": "客户名称",
+    "phone": "电话号码",
+    "trackingCode": "追踪单号",
+    "freightType": "运输类型",
+    "sea": "海运",
+    "air": "空运",
+    "origin": "出发仓库",
+    "dimensions": "尺寸 (CM)",
+    "weight": "实际重量 (KG)",
+    "calculate": "计算并保存",
+    "totalCost": "总费用 (USD)",
+    "cbm": "立方米",
+    "billableWeight": "计费重量 (KG)",
+    "success": "货物注册成功！",
+    "error": "注册货物时出错"
+  },
+  "table": {
+    "tracking": "追踪单号",
+    "customer": "客户",
+    "status": "状态",
+    "cost": "费用",
+    "action": "操作",
+    "notify": "通知 WhatsApp"
+  },
+  "status": {
+    "Loaded": "已装柜",
+    "In Transit": "运输中",
+    "Arrived Dar": "抵达达市",
+    "Delivered": "已交付"
+  },
+  "clients": {
+    "title": "客户目录",
+    "register": "注册客户",
+    "name": "全名",
+    "phone": "电话号码",
+    "company": "公司 (可选)",
+    "email": "电子邮件 (可选)",
+    "save": "保存客户",
+    "all": "所有客户",
+    "search": "搜索客户...",
+    "contact": "联系方式",
+    "noClients": "未找到客户。",
+    "success": "客户注册成功！",
+    "error": "电话号码可能已存在"
+  },
+  "users": {
+    "title": "团队与权限",
+    "adminAccess": "管理员访问",
+    "register": "注册员工",
+    "name": "全名",
+    "email": "电子邮件",
+    "password": "密码",
+    "role": "角色",
+    "staff": "员工 (仅入库)",
+    "manager": "经理 (入库+查看)",
+    "admin": "管理员 (完全访问)",
+    "team": "内部团队",
+    "noUsers": "未找到用户。",
+    "success": "员工注册成功！",
+    "error": "电子邮件可能已存在",
+    "warehouse": "仓库工人"
+  },
+  "footer": {
+    "contact": "联系我们",
+    "offices": "全球办事处",
+    "china": "中国",
+    "dubai": "阿联酋",
+    "tanzania": "坦桑尼亚",
+    "desc": "内部仓库入库与派送系统。专为中国、迪拜和坦桑尼亚之间的快速、准确的物流管理而设计。",
+    "rights": "版权所有。",
+    "uae": "阿联酋",
+    "uaeCity": "迪拜德拉"
+  },
+  "whatsapp": {
+    "message": "您好 {name}，您的货物 {tracking} 已抵达达累斯萨拉姆仓库（Kariakoo）。总费用：${cost}。请在工作时间提货。"
+  },
+  "visits": {
+    "nav": "实地拜访",
+    "title": "营销与实地拜访",
+    "register": "记录新拜访",
+    "customer": "客户姓名",
+    "phone": "电话号码",
+    "workplace": "工作地点 (店铺/办公室)",
+    "comments": "客户备注",
+    "save": "保存拜访",
+    "agent": "营销人员",
+    "date": "日期",
+    "noVisits": "暂无拜访记录。",
+    "success": "拜访记录成功！"
+  }
+}

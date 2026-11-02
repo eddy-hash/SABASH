@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Mobile touch target min-height (iOS HIG recommendation) */
+@media (max-width: 768px) {
+  button, a[role="button"] {
+    min-height: 40px;
+  }
+  /* Prevent iOS zoom on input focus */
+  input, select, textarea {
+    font-size: 16px !important;
+  }
+}
